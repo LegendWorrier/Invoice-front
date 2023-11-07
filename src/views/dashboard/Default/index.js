@@ -18,7 +18,7 @@ import {
 } from "@mobiscroll/react";
 // import jwt_decode from 'jwt-decode';
 
-import "@mobiscroll/react/dist/css/mobiscroll.min.css";
+// import "@mobiscroll/react/dist/css/mobiscroll.min.css";
 // import config from '../../../config';
 // import io from 'socket.io-client';
 // import { Redirect } from 'react-router-dom';
